@@ -28,3 +28,4 @@ redirect("/product")
 
 ## loading.tsx
 This file helps us to create loading state that users see while waiting for content to load in a specefic route segment.
+The loading states appear instantly when navigating, lettiong users know that the application is responsive and actively loading content.
